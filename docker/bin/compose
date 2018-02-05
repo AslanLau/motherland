@@ -1,0 +1,12 @@
+#!/bin/bash
+
+baseDir=$(cd `dirname $0`; dirname `pwd`)
+
+chmod a+rw ${baseDir}/mysql/data
+chmod a+rw ${baseDir}/mysql/logs
+chmod a+rw ${baseDir}/nginx/logs
+chmod a+rw ${baseDir}/php/logs
+chmod a+rw ${baseDir}/redis/data
+chmod a+rw ${baseDir}/redis/logs
+
+docker-compose -p v1801 -f ${baseDir}/compose/docker-compose.yml "$@"

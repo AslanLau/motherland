@@ -1,0 +1,144 @@
+[21-Dec-2017 13:04:33 PRC] PHP Fatal error:  Uncaught ReflectionException: Class router does not exist in /app/vendor/illuminate/container/Container.php:752
+Stack trace:
+#0 /app/vendor/illuminate/container/Container.php(752): ReflectionClass->__construct('router')
+#1 /app/vendor/illuminate/container/Container.php(631): Illuminate\Container\Container->build('router')
+#2 /app/vendor/illuminate/container/Container.php(586): Illuminate\Container\Container->resolve('router', Array)
+#3 /app/vendor/illuminate/container/Container.php(1195): Illuminate\Container\Container->make('router')
+#4 /app/vendor/tr-psg/liviator/src/Providers/RouteServiceProvider.php(20): Illuminate\Container\Container->offsetGet('router')
+#5 [internal function]: Liviator\Providers\RouteServiceProvider->boot()
+#6 /app/vendor/illuminate/container/BoundMethod.php(29): call_user_func_array(Array, Array)
+#7 /app/vendor/illuminate/container/BoundMethod.php(87): Illuminate\Container\BoundMethod::Illuminate\Container\{closure}()
+#8 /app/vendor/illuminate/container/BoundMethod.php(31): Illuminate\ in /app/vendor/illuminate/container/Container.php on line 752
+[21-Dec-2017 13:04:33 PRC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalErrorException: Uncaught ReflectionException: Class router does not exist in /app/vendor/illuminate/container/Container.php:752
+Stack trace:
+#0 /app/vendor/illuminate/container/Container.php(752): ReflectionClass->__construct('router')
+#1 /app/vendor/illuminate/container/Container.php(631): Illuminate\Container\Container->build('router')
+#2 /app/vendor/illuminate/container/Container.php(586): Illuminate\Container\Container->resolve('router', Array)
+#3 /app/vendor/illuminate/container/Container.php(1195): Illuminate\Container\Container->make('router')
+#4 /app/vendor/tr-psg/liviator/src/Providers/RouteServiceProvider.php(20): Illuminate\Container\Container->offsetGet('router')
+#5 [internal function]: Liviator\Providers\RouteServiceProvider->boot()
+#6 /app/vendor/illuminate/container/BoundMethod.php(29): call_user_func_array(Array, Array)
+#7 /app/vendor/illuminate/container/BoundMethod.php(87): Illuminate\Container\BoundMethod::Illuminate\Container\{closure}()
+#8 / in /app/vendor/illuminate/container/Container.php on line 752
+[21-Dec-2017 13:05:22 PRC] PHP Fatal error:  Uncaught ReflectionException: Class router does not exist in /app/vendor/illuminate/container/Container.php:752
+Stack trace:
+#0 /app/vendor/illuminate/container/Container.php(752): ReflectionClass->__construct('router')
+#1 /app/vendor/illuminate/container/Container.php(631): Illuminate\Container\Container->build('router')
+#2 /app/vendor/illuminate/container/Container.php(586): Illuminate\Container\Container->resolve('router', Array)
+#3 /app/vendor/illuminate/container/Container.php(1195): Illuminate\Container\Container->make('router')
+#4 /app/vendor/tr-psg/liviator/src/Providers/RouteServiceProvider.php(20): Illuminate\Container\Container->offsetGet('router')
+#5 [internal function]: Liviator\Providers\RouteServiceProvider->boot()
+#6 /app/vendor/illuminate/container/BoundMethod.php(29): call_user_func_array(Array, Array)
+#7 /app/vendor/illuminate/container/BoundMethod.php(87): Illuminate\Container\BoundMethod::Illuminate\Container\{closure}()
+#8 /app/vendor/illuminate/container/BoundMethod.php(31): Illuminate\ in /app/vendor/illuminate/container/Container.php on line 752
+[21-Dec-2017 13:05:22 PRC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalErrorException: Uncaught ReflectionException: Class router does not exist in /app/vendor/illuminate/container/Container.php:752
+Stack trace:
+#0 /app/vendor/illuminate/container/Container.php(752): ReflectionClass->__construct('router')
+#1 /app/vendor/illuminate/container/Container.php(631): Illuminate\Container\Container->build('router')
+#2 /app/vendor/illuminate/container/Container.php(586): Illuminate\Container\Container->resolve('router', Array)
+#3 /app/vendor/illuminate/container/Container.php(1195): Illuminate\Container\Container->make('router')
+#4 /app/vendor/tr-psg/liviator/src/Providers/RouteServiceProvider.php(20): Illuminate\Container\Container->offsetGet('router')
+#5 [internal function]: Liviator\Providers\RouteServiceProvider->boot()
+#6 /app/vendor/illuminate/container/BoundMethod.php(29): call_user_func_array(Array, Array)
+#7 /app/vendor/illuminate/container/BoundMethod.php(87): Illuminate\Container\BoundMethod::Illuminate\Container\{closure}()
+#8 / in /app/vendor/illuminate/container/Container.php on line 752
+[21-Dec-2017 13:18:59 PRC] PHP Fatal error:  Uncaught ReflectionException: Class router does not exist in /app/vendor/illuminate/container/Container.php:752
+Stack trace:
+#0 /app/vendor/illuminate/container/Container.php(752): ReflectionClass->__construct('router')
+#1 /app/vendor/illuminate/container/Container.php(631): Illuminate\Container\Container->build('router')
+#2 /app/vendor/illuminate/container/Container.php(586): Illuminate\Container\Container->resolve('router', Array)
+#3 /app/vendor/illuminate/container/Container.php(1195): Illuminate\Container\Container->make('router')
+#4 /app/vendor/tr-psg/liviator/src/Providers/RouteServiceProvider.php(20): Illuminate\Container\Container->offsetGet('router')
+#5 [internal function]: Liviator\Providers\RouteServiceProvider->boot()
+#6 /app/vendor/illuminate/container/BoundMethod.php(29): call_user_func_array(Array, Array)
+#7 /app/vendor/illuminate/container/BoundMethod.php(87): Illuminate\Container\BoundMethod::Illuminate\Container\{closure}()
+#8 /app/vendor/illuminate/container/BoundMethod.php(31): Illuminate\ in /app/vendor/illuminate/container/Container.php on line 752
+[21-Dec-2017 13:18:59 PRC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalErrorException: Uncaught ReflectionException: Class router does not exist in /app/vendor/illuminate/container/Container.php:752
+Stack trace:
+#0 /app/vendor/illuminate/container/Container.php(752): ReflectionClass->__construct('router')
+#1 /app/vendor/illuminate/container/Container.php(631): Illuminate\Container\Container->build('router')
+#2 /app/vendor/illuminate/container/Container.php(586): Illuminate\Container\Container->resolve('router', Array)
+#3 /app/vendor/illuminate/container/Container.php(1195): Illuminate\Container\Container->make('router')
+#4 /app/vendor/tr-psg/liviator/src/Providers/RouteServiceProvider.php(20): Illuminate\Container\Container->offsetGet('router')
+#5 [internal function]: Liviator\Providers\RouteServiceProvider->boot()
+#6 /app/vendor/illuminate/container/BoundMethod.php(29): call_user_func_array(Array, Array)
+#7 /app/vendor/illuminate/container/BoundMethod.php(87): Illuminate\Container\BoundMethod::Illuminate\Container\{closure}()
+#8 / in /app/vendor/illuminate/container/Container.php on line 752
+[21-Dec-2017 13:20:14 PRC] PHP Fatal error:  Uncaught ReflectionException: Class router does not exist in /app/vendor/illuminate/container/Container.php:752
+Stack trace:
+#0 /app/vendor/illuminate/container/Container.php(752): ReflectionClass->__construct('router')
+#1 /app/vendor/illuminate/container/Container.php(631): Illuminate\Container\Container->build('router')
+#2 /app/vendor/illuminate/container/Container.php(586): Illuminate\Container\Container->resolve('router', Array)
+#3 /app/vendor/illuminate/container/Container.php(1195): Illuminate\Container\Container->make('router')
+#4 /app/vendor/tr-psg/liviator/src/Providers/RouteServiceProvider.php(20): Illuminate\Container\Container->offsetGet('router')
+#5 [internal function]: Liviator\Providers\RouteServiceProvider->boot()
+#6 /app/vendor/illuminate/container/BoundMethod.php(29): call_user_func_array(Array, Array)
+#7 /app/vendor/illuminate/container/BoundMethod.php(87): Illuminate\Container\BoundMethod::Illuminate\Container\{closure}()
+#8 /app/vendor/illuminate/container/BoundMethod.php(31): Illuminate\ in /app/vendor/illuminate/container/Container.php on line 752
+[21-Dec-2017 13:20:14 PRC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalErrorException: Uncaught ReflectionException: Class router does not exist in /app/vendor/illuminate/container/Container.php:752
+Stack trace:
+#0 /app/vendor/illuminate/container/Container.php(752): ReflectionClass->__construct('router')
+#1 /app/vendor/illuminate/container/Container.php(631): Illuminate\Container\Container->build('router')
+#2 /app/vendor/illuminate/container/Container.php(586): Illuminate\Container\Container->resolve('router', Array)
+#3 /app/vendor/illuminate/container/Container.php(1195): Illuminate\Container\Container->make('router')
+#4 /app/vendor/tr-psg/liviator/src/Providers/RouteServiceProvider.php(20): Illuminate\Container\Container->offsetGet('router')
+#5 [internal function]: Liviator\Providers\RouteServiceProvider->boot()
+#6 /app/vendor/illuminate/container/BoundMethod.php(29): call_user_func_array(Array, Array)
+#7 /app/vendor/illuminate/container/BoundMethod.php(87): Illuminate\Container\BoundMethod::Illuminate\Container\{closure}()
+#8 / in /app/vendor/illuminate/container/Container.php on line 752
+[08-Jan-2018 07:20:21 UTC] PHP Warning:  require(/app/order/vendor/composer/../myclabs/deep-copy/src/DeepCopy/deep_copy.php): failed to open stream: No such file or directory in /app/order/vendor/composer/autoload_real.php on line 66
+[08-Jan-2018 07:20:21 UTC] PHP Fatal error:  require(): Failed opening required '/app/order/vendor/composer/../myclabs/deep-copy/src/DeepCopy/deep_copy.php' (include_path='.:/usr/local/lib/php') in /app/order/vendor/composer/autoload_real.php on line 66
+[08-Jan-2018 07:21:09 UTC] PHP Warning:  require(/app/order/vendor/composer/../myclabs/deep-copy/src/DeepCopy/deep_copy.php): failed to open stream: No such file or directory in /app/order/vendor/composer/autoload_real.php on line 66
+[08-Jan-2018 07:21:10 UTC] PHP Fatal error:  require(): Failed opening required '/app/order/vendor/composer/../myclabs/deep-copy/src/DeepCopy/deep_copy.php' (include_path='.:/usr/local/lib/php') in /app/order/vendor/composer/autoload_real.php on line 66
+[08-Jan-2018 07:21:58 UTC] PHP Warning:  require(/app/order/vendor/composer/../myclabs/deep-copy/src/DeepCopy/deep_copy.php): failed to open stream: No such file or directory in /app/order/vendor/composer/autoload_real.php on line 66
+[08-Jan-2018 07:21:58 UTC] PHP Fatal error:  require(): Failed opening required '/app/order/vendor/composer/../myclabs/deep-copy/src/DeepCopy/deep_copy.php' (include_path='.:/usr/local/lib/php') in /app/order/vendor/composer/autoload_real.php on line 66
+[13-Jan-2018 05:57:11 UTC] PHP Parse error:  syntax error, unexpected '9' (T_LNUMBER), expecting function (T_FUNCTION) in /app/order/vendor/illuminate/container/Container.php on line 42
+[13-Jan-2018 05:57:38 UTC] PHP Parse error:  syntax error, unexpected '9' (T_LNUMBER), expecting function (T_FUNCTION) in /app/order/vendor/illuminate/container/Container.php on line 42
+[13-Jan-2018 05:57:56 UTC] PHP Parse error:  syntax error, unexpected '9' (T_LNUMBER), expecting function (T_FUNCTION) in /app/order/vendor/illuminate/container/Container.php on line 42
+[13-Jan-2018 05:58:18 UTC] PHP Parse error:  syntax error, unexpected '9' (T_LNUMBER), expecting function (T_FUNCTION) in /app/order/vendor/illuminate/container/Container.php on line 42
+[13-Jan-2018 05:58:27 UTC] PHP Parse error:  syntax error, unexpected '9' (T_LNUMBER), expecting function (T_FUNCTION) in /app/order/vendor/illuminate/container/Container.php on line 42
+[13-Jan-2018 05:58:46 UTC] PHP Parse error:  syntax error, unexpected '9' (T_LNUMBER), expecting function (T_FUNCTION) in /app/order/vendor/illuminate/container/Container.php on line 42
+[13-Jan-2018 05:59:08 UTC] PHP Parse error:  syntax error, unexpected '9' (T_LNUMBER), expecting function (T_FUNCTION) in /app/order/vendor/illuminate/container/Container.php on line 42
+[13-Jan-2018 05:59:27 UTC] PHP Parse error:  syntax error, unexpected '9' (T_LNUMBER), expecting function (T_FUNCTION) in /app/order/vendor/illuminate/container/Container.php on line 42
+[13-Jan-2018 06:00:13 UTC] PHP Parse error:  syntax error, unexpected '9' (T_LNUMBER), expecting function (T_FUNCTION) in /app/order/vendor/illuminate/container/Container.php on line 42
+[15-Jan-2018 05:45:45 UTC] PHP Fatal error:  Uncaught Error: Class 'TrOrder\Application' not found in /app/view_api/bootstrap/app.php:9
+Stack trace:
+#0 /app/view_api/entrypoint/console.php(19): require_once()
+#1 {main}
+  thrown in /app/view_api/bootstrap/app.php on line 9
+[15-Jan-2018 06:16:20 UTC] PHP Fatal error:  Uncaught Error: Class 'TrOrder\Application' not found in /app/view_api/bootstrap/app.php:9
+Stack trace:
+#0 /app/view_api/entrypoint/console.php(19): require_once()
+#1 {main}
+  thrown in /app/view_api/bootstrap/app.php on line 9
+[15-Jan-2018 06:17:02 UTC] PHP Fatal error:  Uncaught Error: Class 'TrOrder\Application' not found in /app/view_api/bootstrap/app.php:9
+Stack trace:
+#0 /app/view_api/entrypoint/console.php(19): require_once()
+#1 {main}
+  thrown in /app/view_api/bootstrap/app.php on line 9
+[15-Jan-2018 06:18:36 UTC] PHP Fatal error:  Uncaught Error: Class 'TrOrder\Application' not found in /app/view_api/bootstrap/app.php:9
+Stack trace:
+#0 /app/view_api/entrypoint/console.php(19): require_once()
+#1 {main}
+  thrown in /app/view_api/bootstrap/app.php on line 9
+[16-Jan-2018 10:43:05 PRC] PHP Fatal error:  Uncaught Whisper\Rpc\RpcException: Invoker for [TrService\Simple\Item\ItemServiceInterface] not found. in /app/vendor/tr-psg/whisper/src/Rpc/Dispatcher.php:51
+Stack trace:
+#0 /app/vendor/tr-psg/whisper/src/WhisperManager.php(200): Whisper\Rpc\Dispatcher->dispatch(Object(Whisper\Rpc\Invocation))
+#1 [internal function]: Whisper\WhisperManager->Whisper\{closure}(Object(swoole_http_request), Object(swoole_http_response))
+#2 /app/vendor/tr-psg/whisper/src/WhisperManager.php(207): swoole_http_server->start()
+#3 /app/app/Console/Commands/SwooleServerCommand.php(38): Whisper\WhisperManager->start()
+#4 [internal function]: TrOrder\Console\Commands\SwooleServerCommand->handle()
+#5 /app/vendor/illuminate/container/BoundMethod.php(29): call_user_func_array(Array, Array)
+#6 /app/vendor/illuminate/container/BoundMethod.php(87): Illuminate\Container\BoundMethod::Illuminate\Container\{closure}()
+#7 /app/vendor/illuminate/container/BoundMethod.php(31): Illuminate\Container\BoundMethod::callBoundMethod(Object(TrOrder\Applicati in /app/vendor/tr-psg/whisper/src/Rpc/Dispatcher.php on line 51
+[26-Jan-2018 06:53:15 UTC] PHP Warning:  require(/item/vendor/composer/../guzzlehttp/promises/src/functions_include.php): failed to open stream: No such file or directory in /item/vendor/composer/autoload_real.php on line 66
+[26-Jan-2018 06:53:15 UTC] PHP Fatal error:  require(): Failed opening required '/item/vendor/composer/../guzzlehttp/promises/src/functions_include.php' (include_path='.:/usr/local/lib/php') in /item/vendor/composer/autoload_real.php on line 66
+[26-Jan-2018 06:54:22 UTC] PHP Warning:  require(/item/vendor/composer/../guzzlehttp/promises/src/functions_include.php): failed to open stream: No such file or directory in /item/vendor/composer/autoload_real.php on line 66
+[26-Jan-2018 06:54:22 UTC] PHP Fatal error:  require(): Failed opening required '/item/vendor/composer/../guzzlehttp/promises/src/functions_include.php' (include_path='.:/usr/local/lib/php') in /item/vendor/composer/autoload_real.php on line 66
+[26-Jan-2018 06:54:32 UTC] PHP Warning:  require(/item/vendor/composer/../guzzlehttp/promises/src/functions_include.php): failed to open stream: No such file or directory in /item/vendor/composer/autoload_real.php on line 66
+[26-Jan-2018 06:54:32 UTC] PHP Fatal error:  require(): Failed opening required '/item/vendor/composer/../guzzlehttp/promises/src/functions_include.php' (include_path='.:/usr/local/lib/php') in /item/vendor/composer/autoload_real.php on line 66
+[26-Jan-2018 06:59:15 UTC] PHP Warning:  require(/item/vendor/composer/../guzzlehttp/promises/src/functions_include.php): failed to open stream: No such file or directory in /item/vendor/composer/autoload_real.php on line 66
+[26-Jan-2018 06:59:15 UTC] PHP Fatal error:  require(): Failed opening required '/item/vendor/composer/../guzzlehttp/promises/src/functions_include.php' (include_path='.:/usr/local/lib/php') in /item/vendor/composer/autoload_real.php on line 66
+[29-Jan-2018 02:56:48 UTC] PHP Warning:  require(/item/vendor/autoload.php): failed to open stream: No such file or directory in /item/artisan on line 12
+[29-Jan-2018 02:56:48 UTC] PHP Fatal error:  require(): Failed opening required '/item/vendor/autoload.php' (include_path='.:/usr/local/lib/php') in /item/artisan on line 12
+[01-Feb-2018 21:27:11 PRC] PHP Fatal error:  Class TrGood\Rate\Rate contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (TrGood\Contract\RateInterface::deleteRates) in /item/app/Rate/Rate.php on line 11

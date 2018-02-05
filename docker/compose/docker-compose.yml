@@ -1,0 +1,103 @@
+version: '3'
+
+services:
+
+  redis:
+    # zNpnzScJpdWu3vQD
+    image: redis:3.2
+    volumes:
+      - /etc/localtime:/etc/localtime:ro
+      - ../redis/conf:/etc/redis:ro
+      - ../redis/data:/data
+      - ../redis/logs:/var/log/redis
+    command:
+      - redis-server
+      - /etc/redis/redis.conf
+    ports:
+     - 6379:6379
+
+  mysql:
+    # tr_order
+    # JrE1ulMiWz1TZB2G
+    # trorder
+    # 9L6u276kKcIxZAT7
+    image: mysql:5.7
+    volumes:
+      - /etc/localtime:/etc/localtime:ro
+      - ../mysql/conf/my.cnf:/etc/mysql/my.cnf:ro
+      - ../mysql/data:/var/lib/mysql
+      - ../mysql/logs:/var/log/mysql
+    environment:
+      MYSQL_DATABASE: tr_goods
+      MYSQL_ROOT_PASSWORD: JrE1ulMiWz1TZB2G
+      MYSQL_USER: trgoods
+      MYSQL_PASSWORD: 9L6u276kKcIxZAT7
+    ports:
+      - 3306:3306
+  
+  
+  php_item:
+    build: ./php
+    volumes:
+      - /etc/localtime:/etc/localtime:ro
+      - ../php/conf/php.ini:/usr/local/etc/php/php.ini:ro
+      - ../php/conf/supervisord.conf:/etc/supervisord.conf:ro
+      - ../php/conf/supervisor.d:/etc/supervisor/conf.d:ro
+      - ../php/logs:/var/log/php
+      - ../php/rune:/var/run/php
+      - /html/trc/service-item:/item
+    environment:
+      PHP_IDE_CONFIG: serverName=tritem
+    links:
+      - redis
+      - mysql
+
+  php_order:
+    build: ./php
+    volumes:
+      - /etc/localtime:/etc/localtime:ro
+      - ../php/conf/php.ini:/usr/local/etc/php/php.ini:ro
+      - ../php/conf/supervisord.conf:/etc/supervisord.conf:ro
+      - ../php/conf/supervisor.d:/etc/supervisor/conf.d:ro
+      - ../php/logs:/var/log/php
+      - ../php/rune:/var/run/php
+      - /html/trc/service-order:/order
+    environment:
+      PHP_IDE_CONFIG: serverName=trorder
+    links:
+      - redis
+      - mysql
+      - php_item
+  
+  php_api:
+    build: ./php
+    volumes:
+      - /etc/localtime:/etc/localtime:ro
+      - ../php/conf/php.ini:/usr/local/etc/php/php.ini:ro
+      - ../php/conf/supervisord.conf:/etc/supervisord.conf:ro
+      - ../php/conf/supervisor.d:/etc/supervisor/conf.d:ro
+      - ../php/logs:/var/log/php
+      - ../php/rune:/var/run/php
+      - /html/trc/view_api:/api
+    environment:
+      PHP_IDE_CONFIG: serverName=trapi
+    links:
+      - redis
+      - mysql
+      - php_item
+      - php_order
+
+  nginx:
+    image: nginx:1.10
+    volumes:
+      - /etc/localtime:/etc/localtime:ro
+      - ../nginx/conf/nginx.conf:/etc/nginx/nginx.conf:ro
+      - ../nginx/conf/conf.d:/etc/nginx/conf.d:ro
+      - ../nginx/logs:/var/log/nginx
+      - /html/trc/service-item:/item
+    links:
+      - php_api
+      - php_item
+      - php_order
+    ports:
+      - 8888:80

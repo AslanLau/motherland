@@ -1,0 +1,962 @@
+2017-12-20 17:53:39,675 CRIT Supervisor running as root (no user in config file)
+2017-12-20 17:53:39,675 WARN Included extra file "/etc/supervisor/conf.d/promotion.conf" during parsing
+2017-12-20 17:53:39,754 INFO RPC interface 'supervisor' initialized
+2017-12-20 17:53:39,754 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-12-20 17:53:39,755 INFO supervisord started with pid 1
+2017-12-20 18:01:41,391 WARN received SIGTERM indicating exit request
+2017-12-20 18:01:58,819 CRIT Supervisor running as root (no user in config file)
+2017-12-20 18:01:58,819 WARN Included extra file "/etc/supervisor/conf.d/promotion.conf" during parsing
+2017-12-20 18:01:59,027 INFO RPC interface 'supervisor' initialized
+2017-12-20 18:01:59,028 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-12-20 18:01:59,028 INFO supervisord started with pid 1
+2017-12-29 03:23:31,115 CRIT Supervisor running as root (no user in config file)
+2017-12-29 03:23:31,232 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2017-12-29 03:23:31,323 INFO RPC interface 'supervisor' initialized
+2017-12-29 03:23:31,323 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-12-29 03:23:31,323 INFO supervisord started with pid 1
+2017-12-29 03:23:48,824 WARN received SIGTERM indicating exit request
+2017-12-29 03:24:08,389 CRIT Supervisor running as root (no user in config file)
+2017-12-29 03:24:08,389 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2017-12-29 03:24:08,401 INFO RPC interface 'supervisor' initialized
+2017-12-29 03:24:08,401 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-12-29 03:24:08,401 INFO supervisord started with pid 1
+2017-12-29 03:30:46,869 WARN received SIGTERM indicating exit request
+2017-12-29 03:36:46,134 CRIT Supervisor running as root (no user in config file)
+2017-12-29 03:36:46,134 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2017-12-29 03:36:46,146 INFO RPC interface 'supervisor' initialized
+2017-12-29 03:36:46,147 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-12-29 03:36:46,147 INFO supervisord started with pid 1
+2017-12-29 05:22:12,345 WARN received SIGTERM indicating exit request
+2017-12-29 05:25:30,876 CRIT Supervisor running as root (no user in config file)
+2017-12-29 05:25:30,876 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2017-12-29 05:25:31,045 INFO RPC interface 'supervisor' initialized
+2017-12-29 05:25:31,084 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-12-29 05:25:31,084 INFO supervisord started with pid 1
+2017-12-29 08:12:26,232 WARN received SIGTERM indicating exit request
+2017-12-29 08:52:20,156 CRIT Supervisor running as root (no user in config file)
+2017-12-29 08:52:20,157 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2017-12-29 08:52:20,216 INFO RPC interface 'supervisor' initialized
+2017-12-29 08:52:20,217 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2017-12-29 08:52:20,218 INFO supervisord started with pid 1
+2018-01-02 01:46:10,400 WARN received SIGTERM indicating exit request
+2018-01-02 01:46:28,373 CRIT Supervisor running as root (no user in config file)
+2018-01-02 01:46:28,373 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-02 01:46:28,686 INFO RPC interface 'supervisor' initialized
+2018-01-02 01:46:28,704 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-02 01:46:28,705 INFO supervisord started with pid 1
+2018-01-02 13:32:33,064 WARN received SIGTERM indicating exit request
+2018-01-02 13:32:54,349 CRIT Supervisor running as root (no user in config file)
+2018-01-02 13:32:54,349 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-02 13:32:54,531 INFO RPC interface 'supervisor' initialized
+2018-01-02 13:32:54,532 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-02 13:32:54,532 INFO supervisord started with pid 1
+2018-01-03 03:04:46,037 WARN received SIGTERM indicating exit request
+2018-01-03 03:05:08,863 CRIT Supervisor running as root (no user in config file)
+2018-01-03 03:05:08,864 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-03 03:05:08,953 INFO RPC interface 'supervisor' initialized
+2018-01-03 03:05:08,954 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-03 03:05:08,954 INFO supervisord started with pid 1
+2018-01-03 05:55:50,018 CRIT Supervisor running as root (no user in config file)
+2018-01-03 05:55:50,018 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-03 05:55:50,423 INFO RPC interface 'supervisor' initialized
+2018-01-03 05:55:50,423 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-03 05:55:50,424 INFO supervisord started with pid 1
+2018-01-04 01:59:07,605 WARN received SIGTERM indicating exit request
+2018-01-04 02:38:20,047 CRIT Supervisor running as root (no user in config file)
+2018-01-04 02:38:20,058 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-04 02:38:20,187 INFO RPC interface 'supervisor' initialized
+2018-01-04 02:38:20,188 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-04 02:38:20,189 INFO supervisord started with pid 1
+2018-01-04 02:38:30,756 WARN received SIGTERM indicating exit request
+2018-01-04 06:37:49,118 CRIT Supervisor running as root (no user in config file)
+2018-01-04 06:37:49,179 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-04 06:37:49,279 INFO RPC interface 'supervisor' initialized
+2018-01-04 06:37:49,282 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-04 06:37:49,283 INFO supervisord started with pid 1
+2018-01-04 06:38:32,058 WARN received SIGTERM indicating exit request
+2018-01-05 02:17:54,700 CRIT Supervisor running as root (no user in config file)
+2018-01-05 02:17:54,748 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-05 02:17:54,997 INFO RPC interface 'supervisor' initialized
+2018-01-05 02:17:54,997 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-05 02:17:54,998 INFO supervisord started with pid 1
+2018-01-05 05:41:16,688 WARN received SIGTERM indicating exit request
+2018-01-05 05:41:37,577 CRIT Supervisor running as root (no user in config file)
+2018-01-05 05:41:37,577 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-05 05:41:37,833 INFO RPC interface 'supervisor' initialized
+2018-01-05 05:41:37,850 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-05 05:41:37,851 INFO supervisord started with pid 1
+2018-01-05 08:01:49,552 WARN received SIGTERM indicating exit request
+2018-01-05 08:27:00,026 CRIT Supervisor running as root (no user in config file)
+2018-01-05 08:27:00,052 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-05 08:27:00,284 INFO RPC interface 'supervisor' initialized
+2018-01-05 08:27:00,284 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-05 08:27:00,285 INFO supervisord started with pid 1
+2018-01-05 08:30:48,815 WARN received SIGTERM indicating exit request
+2018-01-07 03:28:41,884 CRIT Supervisor running as root (no user in config file)
+2018-01-07 03:28:41,902 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-07 03:28:42,116 INFO RPC interface 'supervisor' initialized
+2018-01-07 03:28:42,117 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-07 03:28:42,117 INFO supervisord started with pid 1
+2018-01-07 03:32:29,335 WARN received SIGTERM indicating exit request
+2018-01-07 03:32:43,362 CRIT Supervisor running as root (no user in config file)
+2018-01-07 03:32:43,362 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-07 03:32:43,396 INFO RPC interface 'supervisor' initialized
+2018-01-07 03:32:43,396 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-07 03:32:43,396 INFO supervisord started with pid 1
+2018-01-07 06:26:57,914 CRIT Supervisor running as root (no user in config file)
+2018-01-07 06:26:57,914 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-07 06:26:58,461 INFO RPC interface 'supervisor' initialized
+2018-01-07 06:26:58,474 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-07 06:26:58,502 INFO supervisord started with pid 1
+2018-01-07 07:57:37,697 WARN received SIGTERM indicating exit request
+2018-01-07 07:57:57,109 CRIT Supervisor running as root (no user in config file)
+2018-01-07 07:57:57,109 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-07 07:57:57,163 INFO RPC interface 'supervisor' initialized
+2018-01-07 07:57:57,163 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-07 07:57:57,164 INFO supervisord started with pid 1
+2018-01-08 01:34:34,974 WARN received SIGTERM indicating exit request
+2018-01-08 07:20:06,900 CRIT Supervisor running as root (no user in config file)
+2018-01-08 07:20:06,942 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-08 07:20:07,182 INFO RPC interface 'supervisor' initialized
+2018-01-08 07:20:07,197 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-08 07:20:07,197 INFO supervisord started with pid 1
+2018-01-09 03:35:31,906 WARN received SIGTERM indicating exit request
+2018-01-09 03:54:20,849 CRIT Supervisor running as root (no user in config file)
+2018-01-09 03:54:20,882 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-09 03:54:21,213 INFO RPC interface 'supervisor' initialized
+2018-01-09 03:54:21,236 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-09 03:54:21,236 INFO supervisord started with pid 1
+2018-01-09 05:24:27,634 CRIT Supervisor running as root (no user in config file)
+2018-01-09 05:24:27,635 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-09 05:24:28,006 INFO RPC interface 'supervisor' initialized
+2018-01-09 05:24:28,006 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-09 05:24:28,014 INFO supervisord started with pid 1
+2018-01-09 05:44:10,419 WARN received SIGTERM indicating exit request
+2018-01-10 07:41:21,423 CRIT Supervisor running as root (no user in config file)
+2018-01-10 07:41:21,442 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-10 07:41:21,756 INFO RPC interface 'supervisor' initialized
+2018-01-10 07:41:21,793 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-10 07:41:21,795 INFO supervisord started with pid 1
+2018-01-10 11:55:03,758 WARN received SIGTERM indicating exit request
+2018-01-11 02:00:59,300 CRIT Supervisor running as root (no user in config file)
+2018-01-11 02:00:59,340 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-11 02:00:59,758 INFO RPC interface 'supervisor' initialized
+2018-01-11 02:00:59,759 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-11 02:00:59,759 INFO supervisord started with pid 1
+2018-01-11 02:49:28,348 CRIT Supervisor running as root (no user in config file)
+2018-01-11 02:49:28,349 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-11 02:49:28,767 INFO RPC interface 'supervisor' initialized
+2018-01-11 02:49:28,768 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-11 02:49:28,769 INFO supervisord started with pid 1
+2018-01-11 03:04:17,085 WARN received SIGTERM indicating exit request
+2018-01-11 03:04:52,659 CRIT Supervisor running as root (no user in config file)
+2018-01-11 03:04:52,659 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-11 03:04:52,730 INFO RPC interface 'supervisor' initialized
+2018-01-11 03:04:52,731 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-11 03:04:52,731 INFO supervisord started with pid 1
+2018-01-11 03:11:33,551 WARN received SIGTERM indicating exit request
+2018-01-11 03:11:44,752 CRIT Supervisor running as root (no user in config file)
+2018-01-11 03:11:44,752 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-11 03:11:44,806 INFO RPC interface 'supervisor' initialized
+2018-01-11 03:11:44,807 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-11 03:11:44,807 INFO supervisord started with pid 1
+2018-01-11 03:13:24,929 WARN received SIGTERM indicating exit request
+2018-01-11 03:13:38,547 CRIT Supervisor running as root (no user in config file)
+2018-01-11 03:13:38,547 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-11 03:13:38,579 INFO RPC interface 'supervisor' initialized
+2018-01-11 03:13:38,579 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-11 03:13:38,580 INFO supervisord started with pid 1
+2018-01-11 05:09:21,215 WARN received SIGTERM indicating exit request
+2018-01-11 05:09:42,630 CRIT Supervisor running as root (no user in config file)
+2018-01-11 05:09:42,632 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-11 05:09:42,934 INFO RPC interface 'supervisor' initialized
+2018-01-11 05:09:42,936 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-11 05:09:42,937 INFO supervisord started with pid 1
+2018-01-11 05:58:18,691 WARN received SIGTERM indicating exit request
+2018-01-11 05:58:50,797 CRIT Supervisor running as root (no user in config file)
+2018-01-11 05:58:50,798 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-11 05:58:51,067 INFO RPC interface 'supervisor' initialized
+2018-01-11 05:58:51,067 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-11 05:58:51,068 INFO supervisord started with pid 1
+2018-01-13 02:08:37,449 CRIT Supervisor running as root (no user in config file)
+2018-01-13 02:08:37,464 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-13 02:08:38,133 INFO RPC interface 'supervisor' initialized
+2018-01-13 02:08:38,148 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-13 02:08:38,148 INFO supervisord started with pid 1
+2018-01-13 02:24:18,314 WARN received SIGTERM indicating exit request
+2018-01-13 02:24:48,149 CRIT Supervisor running as root (no user in config file)
+2018-01-13 02:24:48,150 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-13 02:24:48,451 INFO RPC interface 'supervisor' initialized
+2018-01-13 02:24:48,452 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-13 02:24:48,452 INFO supervisord started with pid 1
+2018-01-13 02:30:11,888 WARN received SIGTERM indicating exit request
+2018-01-13 02:30:32,100 CRIT Supervisor running as root (no user in config file)
+2018-01-13 02:30:32,100 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-13 02:30:32,144 INFO RPC interface 'supervisor' initialized
+2018-01-13 02:30:32,148 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-13 02:30:32,151 INFO supervisord started with pid 1
+2018-01-13 02:37:51,820 WARN received SIGTERM indicating exit request
+2018-01-13 02:38:05,807 CRIT Supervisor running as root (no user in config file)
+2018-01-13 02:38:05,807 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-13 02:38:05,842 INFO RPC interface 'supervisor' initialized
+2018-01-13 02:38:05,843 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-13 02:38:05,843 INFO supervisord started with pid 1
+2018-01-13 02:55:53,810 WARN received SIGTERM indicating exit request
+2018-01-13 02:56:15,991 CRIT Supervisor running as root (no user in config file)
+2018-01-13 02:56:15,992 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-13 02:56:16,876 INFO RPC interface 'supervisor' initialized
+2018-01-13 02:56:16,877 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-13 02:56:16,878 INFO supervisord started with pid 1
+2018-01-13 02:59:17,783 WARN received SIGTERM indicating exit request
+2018-01-13 02:59:25,776 CRIT Supervisor running as root (no user in config file)
+2018-01-13 02:59:25,776 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-13 02:59:25,787 INFO RPC interface 'supervisor' initialized
+2018-01-13 02:59:25,787 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-13 02:59:25,787 INFO supervisord started with pid 1
+2018-01-13 03:09:35,758 WARN received SIGTERM indicating exit request
+2018-01-13 03:09:41,868 CRIT Supervisor running as root (no user in config file)
+2018-01-13 03:09:41,868 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-13 03:09:41,931 INFO RPC interface 'supervisor' initialized
+2018-01-13 03:09:41,932 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-13 03:09:41,932 INFO supervisord started with pid 1
+2018-01-13 03:24:20,474 WARN received SIGTERM indicating exit request
+2018-01-13 03:24:27,991 CRIT Supervisor running as root (no user in config file)
+2018-01-13 03:24:27,991 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-13 03:24:28,002 INFO RPC interface 'supervisor' initialized
+2018-01-13 03:24:28,005 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-13 03:24:28,005 INFO supervisord started with pid 1
+2018-01-13 03:28:05,518 WARN received SIGTERM indicating exit request
+2018-01-13 03:28:09,210 CRIT Supervisor running as root (no user in config file)
+2018-01-13 03:28:09,211 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-13 03:28:09,233 INFO RPC interface 'supervisor' initialized
+2018-01-13 03:28:09,233 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-13 03:28:09,234 INFO supervisord started with pid 1
+2018-01-13 03:31:55,486 WARN received SIGTERM indicating exit request
+2018-01-13 03:31:59,269 CRIT Supervisor running as root (no user in config file)
+2018-01-13 03:31:59,269 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-13 03:31:59,282 INFO RPC interface 'supervisor' initialized
+2018-01-13 03:31:59,283 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-13 03:31:59,283 INFO supervisord started with pid 1
+2018-01-13 03:33:52,433 WARN received SIGTERM indicating exit request
+2018-01-13 03:33:56,646 CRIT Supervisor running as root (no user in config file)
+2018-01-13 03:33:56,646 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-13 03:33:56,658 INFO RPC interface 'supervisor' initialized
+2018-01-13 03:33:56,659 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-13 03:33:56,659 INFO supervisord started with pid 1
+2018-01-13 03:39:50,473 WARN received SIGTERM indicating exit request
+2018-01-13 03:39:54,341 CRIT Supervisor running as root (no user in config file)
+2018-01-13 03:39:54,341 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-13 03:39:54,351 INFO RPC interface 'supervisor' initialized
+2018-01-13 03:39:54,352 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-13 03:39:54,352 INFO supervisord started with pid 1
+2018-01-13 05:26:05,438 WARN received SIGTERM indicating exit request
+2018-01-13 05:26:10,171 CRIT Supervisor running as root (no user in config file)
+2018-01-13 05:26:10,171 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-13 05:26:10,579 INFO RPC interface 'supervisor' initialized
+2018-01-13 05:26:10,579 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-13 05:26:10,580 INFO supervisord started with pid 1
+2018-01-13 05:53:42,963 WARN received SIGTERM indicating exit request
+2018-01-13 05:53:50,406 CRIT Supervisor running as root (no user in config file)
+2018-01-13 05:53:50,406 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-13 05:53:50,505 INFO RPC interface 'supervisor' initialized
+2018-01-13 05:53:50,506 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-13 05:53:50,506 INFO supervisord started with pid 1
+2018-01-13 05:57:22,667 WARN received SIGTERM indicating exit request
+2018-01-13 05:57:35,481 CRIT Supervisor running as root (no user in config file)
+2018-01-13 05:57:35,481 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-13 05:57:35,543 INFO RPC interface 'supervisor' initialized
+2018-01-13 05:57:35,545 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-13 05:57:35,546 INFO supervisord started with pid 1
+2018-01-13 05:58:56,014 WARN received SIGTERM indicating exit request
+2018-01-13 05:59:03,496 CRIT Supervisor running as root (no user in config file)
+2018-01-13 05:59:03,497 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-13 05:59:03,507 INFO RPC interface 'supervisor' initialized
+2018-01-13 05:59:03,508 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-13 05:59:03,508 INFO supervisord started with pid 1
+2018-01-13 05:59:47,959 WARN received SIGTERM indicating exit request
+2018-01-13 05:59:52,314 CRIT Supervisor running as root (no user in config file)
+2018-01-13 05:59:52,314 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-13 05:59:52,325 INFO RPC interface 'supervisor' initialized
+2018-01-13 05:59:52,325 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-13 05:59:52,325 INFO supervisord started with pid 1
+2018-01-15 03:54:53,469 WARN received SIGTERM indicating exit request
+2018-01-15 03:55:01,487 CRIT Supervisor running as root (no user in config file)
+2018-01-15 03:55:01,488 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-15 03:55:01,597 INFO RPC interface 'supervisor' initialized
+2018-01-15 03:55:01,598 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-15 03:55:01,598 INFO supervisord started with pid 1
+2018-01-15 06:27:14,061 WARN received SIGTERM indicating exit request
+2018-01-15 06:27:24,866 CRIT Supervisor running as root (no user in config file)
+2018-01-15 06:27:24,866 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-15 06:27:24,921 INFO RPC interface 'supervisor' initialized
+2018-01-15 06:27:24,921 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-15 06:27:24,922 INFO supervisord started with pid 1
+2018-01-15 06:29:41,938 WARN received SIGTERM indicating exit request
+2018-01-15 06:29:48,993 CRIT Supervisor running as root (no user in config file)
+2018-01-15 06:29:48,993 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-15 06:29:49,047 INFO RPC interface 'supervisor' initialized
+2018-01-15 06:29:49,048 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-15 06:29:49,048 INFO supervisord started with pid 1
+2018-01-15 10:53:25,180 WARN received SIGTERM indicating exit request
+2018-01-15 11:00:47,568 CRIT Supervisor running as root (no user in config file)
+2018-01-15 11:00:47,583 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-15 11:00:47,821 INFO RPC interface 'supervisor' initialized
+2018-01-15 11:00:47,838 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-15 11:00:47,838 INFO supervisord started with pid 1
+2018-01-15 11:02:56,983 WARN received SIGTERM indicating exit request
+2018-01-15 11:03:03,569 CRIT Supervisor running as root (no user in config file)
+2018-01-15 11:03:03,570 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-15 11:03:03,602 INFO RPC interface 'supervisor' initialized
+2018-01-15 11:03:03,602 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-15 11:03:03,603 INFO supervisord started with pid 1
+2018-01-15 11:05:56,732 WARN received SIGTERM indicating exit request
+2018-01-15 11:06:03,923 CRIT Supervisor running as root (no user in config file)
+2018-01-15 11:06:03,924 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-15 11:06:03,963 INFO RPC interface 'supervisor' initialized
+2018-01-15 11:06:03,964 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-15 11:06:03,964 INFO supervisord started with pid 1
+2018-01-15 11:06:59,022 WARN received SIGTERM indicating exit request
+2018-01-15 11:07:07,047 CRIT Supervisor running as root (no user in config file)
+2018-01-15 11:07:07,048 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-15 11:07:07,101 INFO RPC interface 'supervisor' initialized
+2018-01-15 11:07:07,101 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-15 11:07:07,102 INFO supervisord started with pid 1
+2018-01-15 11:40:33,334 WARN received SIGTERM indicating exit request
+2018-01-16 02:32:15,250 CRIT Supervisor running as root (no user in config file)
+2018-01-16 02:32:15,268 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-16 02:32:15,268 CRIT Supervisor running as root (no user in config file)
+2018-01-16 02:32:15,268 CRIT Supervisor running as root (no user in config file)
+2018-01-16 02:32:15,269 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-16 02:32:15,269 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-16 02:32:15,294 WARN Failed to clean up '/var/log/php/supervisor/order_00-stdout---supervisor-UM74d2.log'
+2018-01-16 02:32:15,295 WARN Failed to clean up '/var/log/php/supervisor/order_00-stdout---supervisor-UM74d2.log'
+2018-01-16 02:32:15,527 INFO RPC interface 'supervisor' initialized
+2018-01-16 02:32:15,527 INFO RPC interface 'supervisor' initialized
+2018-01-16 02:32:15,530 INFO RPC interface 'supervisor' initialized
+2018-01-16 02:32:15,531 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-16 02:32:15,531 INFO supervisord started with pid 1
+2018-01-16 02:32:15,530 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-16 02:32:15,582 INFO supervisord started with pid 1
+2018-01-16 02:32:15,531 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-16 02:32:15,583 INFO supervisord started with pid 1
+2018-01-16 02:32:27,690 WARN received SIGTERM indicating exit request
+2018-01-16 02:32:27,691 WARN received SIGTERM indicating exit request
+2018-01-16 02:32:27,694 WARN received SIGTERM indicating exit request
+2018-01-16 02:32:55,014 CRIT Supervisor running as root (no user in config file)
+2018-01-16 02:32:55,015 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-16 02:32:55,031 INFO RPC interface 'supervisor' initialized
+2018-01-16 02:32:55,031 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-16 02:32:55,031 INFO supervisord started with pid 1
+2018-01-16 02:32:55,681 CRIT Supervisor running as root (no user in config file)
+2018-01-16 02:32:55,682 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-16 02:32:55,703 INFO RPC interface 'supervisor' initialized
+2018-01-16 02:32:55,703 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-16 02:32:55,704 INFO supervisord started with pid 1
+2018-01-16 02:32:56,201 CRIT Supervisor running as root (no user in config file)
+2018-01-16 02:32:56,201 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-16 02:32:56,225 INFO RPC interface 'supervisor' initialized
+2018-01-16 02:32:56,228 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-16 02:32:56,228 INFO supervisord started with pid 1
+2018-01-16 02:35:22,972 WARN received SIGTERM indicating exit request
+2018-01-16 02:35:22,980 WARN received SIGTERM indicating exit request
+2018-01-16 02:35:22,980 WARN received SIGTERM indicating exit request
+2018-01-16 02:37:56,480 CRIT Supervisor running as root (no user in config file)
+2018-01-16 02:37:56,480 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-16 02:37:56,491 INFO RPC interface 'supervisor' initialized
+2018-01-16 02:37:56,492 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-16 02:37:56,492 INFO supervisord started with pid 1
+2018-01-16 02:37:58,667 CRIT Supervisor running as root (no user in config file)
+2018-01-16 02:37:58,667 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-16 02:37:58,678 INFO RPC interface 'supervisor' initialized
+2018-01-16 02:37:58,679 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-16 02:37:58,679 INFO supervisord started with pid 1
+2018-01-16 02:38:00,636 CRIT Supervisor running as root (no user in config file)
+2018-01-16 02:38:00,636 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-16 02:38:00,649 INFO RPC interface 'supervisor' initialized
+2018-01-16 02:38:00,649 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-16 02:38:00,649 INFO supervisord started with pid 1
+2018-01-16 02:53:07,639 WARN received SIGTERM indicating exit request
+2018-01-16 02:53:08,612 WARN received SIGTERM indicating exit request
+2018-01-16 02:53:09,478 WARN received SIGTERM indicating exit request
+2018-01-16 20:43:42,731 CRIT Supervisor running as root (no user in config file)
+2018-01-16 20:43:42,754 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-16 20:43:42,814 INFO RPC interface 'supervisor' initialized
+2018-01-16 20:43:42,839 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-16 20:43:42,839 INFO supervisord started with pid 1
+2018-01-16 20:43:43,606 CRIT Supervisor running as root (no user in config file)
+2018-01-16 20:43:43,606 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-16 20:43:43,655 INFO RPC interface 'supervisor' initialized
+2018-01-16 20:43:43,655 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-16 20:43:43,665 INFO supervisord started with pid 1
+2018-01-16 20:43:44,487 CRIT Supervisor running as root (no user in config file)
+2018-01-16 20:43:44,488 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-16 20:43:44,511 INFO RPC interface 'supervisor' initialized
+2018-01-16 20:43:44,515 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-16 20:43:44,516 INFO supervisord started with pid 1
+2018-01-16 20:45:40,168 WARN received SIGTERM indicating exit request
+2018-01-16 20:45:40,586 WARN received SIGTERM indicating exit request
+2018-01-16 20:45:40,910 WARN received SIGTERM indicating exit request
+2018-01-16 20:46:05,972 CRIT Supervisor running as root (no user in config file)
+2018-01-16 20:46:05,972 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-16 20:46:05,993 INFO RPC interface 'supervisor' initialized
+2018-01-16 20:46:05,994 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-16 20:46:05,994 INFO supervisord started with pid 1
+2018-01-16 20:46:06,668 CRIT Supervisor running as root (no user in config file)
+2018-01-16 20:46:06,670 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-16 20:46:06,733 INFO RPC interface 'supervisor' initialized
+2018-01-16 20:46:06,734 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-16 20:46:06,734 INFO supervisord started with pid 1
+2018-01-16 20:46:07,435 CRIT Supervisor running as root (no user in config file)
+2018-01-16 20:46:07,435 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-16 20:46:07,478 INFO RPC interface 'supervisor' initialized
+2018-01-16 20:46:07,483 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-16 20:46:07,483 INFO supervisord started with pid 1
+2018-01-16 20:46:20,173 WARN received SIGTERM indicating exit request
+2018-01-16 20:46:20,434 WARN received SIGTERM indicating exit request
+2018-01-16 20:46:20,671 WARN received SIGTERM indicating exit request
+2018-01-16 20:49:06,943 CRIT Supervisor running as root (no user in config file)
+2018-01-16 20:49:06,950 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-16 20:49:07,194 INFO RPC interface 'supervisor' initialized
+2018-01-16 20:49:07,204 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-16 20:49:07,297 INFO supervisord started with pid 1
+2018-01-16 20:49:07,328 CRIT Supervisor running as root (no user in config file)
+2018-01-16 20:49:07,332 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-16 20:49:07,375 INFO RPC interface 'supervisor' initialized
+2018-01-16 20:49:07,564 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-16 20:49:07,567 INFO supervisord started with pid 1
+2018-01-16 20:49:08,111 CRIT Supervisor running as root (no user in config file)
+2018-01-16 20:49:08,114 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-16 20:49:08,182 INFO RPC interface 'supervisor' initialized
+2018-01-16 20:49:08,182 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-16 20:49:08,182 INFO supervisord started with pid 1
+2018-01-16 20:49:57,458 WARN received SIGTERM indicating exit request
+2018-01-16 20:49:57,985 WARN received SIGTERM indicating exit request
+2018-01-16 20:49:58,302 WARN received SIGTERM indicating exit request
+2018-01-16 20:50:04,317 CRIT Supervisor running as root (no user in config file)
+2018-01-16 20:50:04,318 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-16 20:50:04,347 INFO RPC interface 'supervisor' initialized
+2018-01-16 20:50:04,351 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-16 20:50:04,351 INFO supervisord started with pid 1
+2018-01-16 20:50:04,897 CRIT Supervisor running as root (no user in config file)
+2018-01-16 20:50:04,897 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-16 20:50:04,939 INFO RPC interface 'supervisor' initialized
+2018-01-16 20:50:04,943 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-16 20:50:04,946 INFO supervisord started with pid 1
+2018-01-16 20:50:05,482 CRIT Supervisor running as root (no user in config file)
+2018-01-16 20:50:05,483 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-16 20:50:05,510 INFO RPC interface 'supervisor' initialized
+2018-01-16 20:50:05,512 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-16 20:50:05,513 INFO supervisord started with pid 1
+2018-01-16 20:52:03,739 WARN received SIGTERM indicating exit request
+2018-01-16 20:52:04,029 WARN received SIGTERM indicating exit request
+2018-01-16 20:52:04,328 WARN received SIGTERM indicating exit request
+2018-01-16 20:54:13,718 CRIT Supervisor running as root (no user in config file)
+2018-01-16 20:54:13,719 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-16 20:54:13,839 INFO RPC interface 'supervisor' initialized
+2018-01-16 20:54:13,841 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-16 20:54:13,842 INFO supervisord started with pid 1
+2018-01-16 20:54:14,409 CRIT Supervisor running as root (no user in config file)
+2018-01-16 20:54:14,409 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-16 20:54:14,496 INFO RPC interface 'supervisor' initialized
+2018-01-16 20:54:14,502 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-16 20:54:14,502 INFO supervisord started with pid 1
+2018-01-16 20:54:15,124 CRIT Supervisor running as root (no user in config file)
+2018-01-16 20:54:15,124 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-16 20:54:15,163 INFO RPC interface 'supervisor' initialized
+2018-01-16 20:54:15,163 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-16 20:54:15,163 INFO supervisord started with pid 1
+2018-01-16 20:58:20,474 WARN received SIGTERM indicating exit request
+2018-01-16 20:58:22,388 CRIT Supervisor running as root (no user in config file)
+2018-01-16 20:58:22,388 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-16 20:58:22,398 WARN received SIGTERM indicating exit request
+2018-01-16 20:58:22,423 INFO RPC interface 'supervisor' initialized
+2018-01-16 20:58:22,425 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-16 20:58:22,425 INFO supervisord started with pid 1
+2018-01-16 20:58:23,357 WARN received SIGTERM indicating exit request
+2018-01-16 20:58:23,400 CRIT Supervisor running as root (no user in config file)
+2018-01-16 20:58:23,400 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-16 20:58:23,429 INFO RPC interface 'supervisor' initialized
+2018-01-16 20:58:23,429 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-16 20:58:23,429 INFO supervisord started with pid 1
+2018-01-16 20:58:24,413 CRIT Supervisor running as root (no user in config file)
+2018-01-16 20:58:24,414 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-16 20:58:24,435 INFO RPC interface 'supervisor' initialized
+2018-01-16 20:58:24,440 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-16 20:58:24,440 INFO supervisord started with pid 1
+2018-01-16 21:12:43,517 CRIT Supervisor running as root (no user in config file)
+2018-01-16 21:12:43,518 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-16 21:12:43,714 INFO RPC interface 'supervisor' initialized
+2018-01-16 21:12:43,715 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-16 21:12:43,716 INFO supervisord started with pid 1
+2018-01-16 21:12:43,942 CRIT Supervisor running as root (no user in config file)
+2018-01-16 21:12:43,943 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-16 21:12:43,961 INFO RPC interface 'supervisor' initialized
+2018-01-16 21:12:43,961 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-16 21:12:43,962 INFO supervisord started with pid 1
+2018-01-16 21:12:44,663 CRIT Supervisor running as root (no user in config file)
+2018-01-16 21:12:44,663 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-16 21:12:44,683 INFO RPC interface 'supervisor' initialized
+2018-01-16 21:12:44,683 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-16 21:12:44,684 INFO supervisord started with pid 1
+2018-01-16 21:13:10,352 WARN received SIGTERM indicating exit request
+2018-01-16 21:13:10,566 WARN received SIGTERM indicating exit request
+2018-01-16 21:13:10,804 WARN received SIGTERM indicating exit request
+2018-01-16 21:18:31,828 CRIT Supervisor running as root (no user in config file)
+2018-01-16 21:18:31,829 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-16 21:18:31,893 INFO RPC interface 'supervisor' initialized
+2018-01-16 21:18:31,902 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-16 21:18:31,902 INFO supervisord started with pid 1
+2018-01-16 21:18:34,788 CRIT Supervisor running as root (no user in config file)
+2018-01-16 21:18:34,788 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-16 21:18:34,828 INFO RPC interface 'supervisor' initialized
+2018-01-16 21:18:34,828 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-16 21:18:34,828 INFO supervisord started with pid 1
+2018-01-16 21:18:35,359 CRIT Supervisor running as root (no user in config file)
+2018-01-16 21:18:35,359 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-16 21:18:35,402 INFO RPC interface 'supervisor' initialized
+2018-01-16 21:18:35,403 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-16 21:18:35,403 INFO supervisord started with pid 1
+2018-01-16 21:19:41,744 WARN received SIGTERM indicating exit request
+2018-01-16 21:19:41,993 WARN received SIGTERM indicating exit request
+2018-01-16 21:19:42,227 WARN received SIGTERM indicating exit request
+2018-01-16 21:25:13,270 CRIT Supervisor running as root (no user in config file)
+2018-01-16 21:25:13,271 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-16 21:25:13,292 INFO RPC interface 'supervisor' initialized
+2018-01-16 21:25:13,295 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-16 21:25:13,296 INFO supervisord started with pid 1
+2018-01-16 21:25:13,761 CRIT Supervisor running as root (no user in config file)
+2018-01-16 21:25:13,762 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-16 21:25:13,792 INFO RPC interface 'supervisor' initialized
+2018-01-16 21:25:13,792 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-16 21:25:13,795 INFO supervisord started with pid 1
+2018-01-16 21:25:14,335 WARN received SIGTERM indicating exit request
+2018-01-16 21:25:14,452 CRIT Supervisor running as root (no user in config file)
+2018-01-16 21:25:14,452 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-16 21:25:14,475 INFO RPC interface 'supervisor' initialized
+2018-01-16 21:25:14,477 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-16 21:25:14,478 INFO supervisord started with pid 1
+2018-01-16 21:25:14,629 WARN received SIGTERM indicating exit request
+2018-01-16 21:32:00,396 WARN received SIGTERM indicating exit request
+2018-01-16 21:32:25,557 CRIT Supervisor running as root (no user in config file)
+2018-01-16 21:32:25,558 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-16 21:32:25,585 INFO RPC interface 'supervisor' initialized
+2018-01-16 21:32:25,591 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-16 21:32:25,596 INFO supervisord started with pid 1
+2018-01-16 21:32:26,071 CRIT Supervisor running as root (no user in config file)
+2018-01-16 21:32:26,073 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-16 21:32:26,124 INFO RPC interface 'supervisor' initialized
+2018-01-16 21:32:26,128 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-16 21:32:26,132 INFO supervisord started with pid 1
+2018-01-16 21:32:26,730 CRIT Supervisor running as root (no user in config file)
+2018-01-16 21:32:26,731 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-16 21:32:26,789 INFO RPC interface 'supervisor' initialized
+2018-01-16 21:32:26,808 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-16 21:32:26,810 INFO supervisord started with pid 1
+2018-01-16 21:32:58,599 WARN received SIGTERM indicating exit request
+2018-01-16 21:32:58,880 WARN received SIGTERM indicating exit request
+2018-01-16 21:32:59,109 WARN received SIGTERM indicating exit request
+2018-01-16 21:55:12,385 CRIT Supervisor running as root (no user in config file)
+2018-01-16 21:55:12,402 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-16 21:55:12,559 INFO RPC interface 'supervisor' initialized
+2018-01-16 21:55:12,560 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-16 21:55:12,560 INFO supervisord started with pid 1
+2018-01-16 21:55:13,579 CRIT Supervisor running as root (no user in config file)
+2018-01-16 21:55:13,580 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-16 21:55:13,587 INFO RPC interface 'supervisor' initialized
+2018-01-16 21:55:13,587 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-16 21:55:13,588 INFO supervisord started with pid 1
+2018-01-16 21:55:14,456 CRIT Supervisor running as root (no user in config file)
+2018-01-16 21:55:14,456 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-16 21:55:14,465 INFO RPC interface 'supervisor' initialized
+2018-01-16 21:55:14,465 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-16 21:55:14,465 INFO supervisord started with pid 1
+2018-01-16 22:01:59,427 WARN received SIGTERM indicating exit request
+2018-01-16 22:02:01,461 WARN received SIGTERM indicating exit request
+2018-01-16 22:02:01,275 WARN received SIGTERM indicating exit request
+2018-01-17 12:44:16,400 CRIT Supervisor running as root (no user in config file)
+2018-01-17 12:44:16,432 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-17 12:44:17,312 INFO RPC interface 'supervisor' initialized
+2018-01-17 12:44:17,332 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-17 12:44:17,332 INFO supervisord started with pid 1
+2018-01-17 12:44:17,946 CRIT Supervisor running as root (no user in config file)
+2018-01-17 12:44:17,946 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-17 12:44:18,066 INFO RPC interface 'supervisor' initialized
+2018-01-17 12:44:18,067 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-17 12:44:18,067 INFO supervisord started with pid 1
+2018-01-17 12:44:24,725 CRIT Supervisor running as root (no user in config file)
+2018-01-17 12:44:24,793 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-17 12:44:24,953 INFO RPC interface 'supervisor' initialized
+2018-01-17 12:44:24,953 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-17 12:44:24,954 INFO supervisord started with pid 1
+2018-01-17 13:38:15,529 WARN received SIGTERM indicating exit request
+2018-01-17 13:38:19,350 WARN received SIGTERM indicating exit request
+2018-01-17 13:38:20,036 CRIT Supervisor running as root (no user in config file)
+2018-01-17 13:38:20,037 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-17 13:38:20,067 INFO RPC interface 'supervisor' initialized
+2018-01-17 13:38:20,070 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-17 13:38:20,070 INFO supervisord started with pid 1
+2018-01-17 13:38:26,012 WARN received SIGTERM indicating exit request
+2018-01-17 13:38:26,358 CRIT Supervisor running as root (no user in config file)
+2018-01-17 13:38:26,358 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-17 13:38:26,389 INFO RPC interface 'supervisor' initialized
+2018-01-17 13:38:26,390 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-17 13:38:26,390 INFO supervisord started with pid 1
+2018-01-17 13:38:30,962 CRIT Supervisor running as root (no user in config file)
+2018-01-17 13:38:30,962 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-17 13:38:30,989 INFO RPC interface 'supervisor' initialized
+2018-01-17 13:38:30,993 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-17 13:38:30,993 INFO supervisord started with pid 1
+2018-01-17 13:43:33,782 WARN received SIGTERM indicating exit request
+2018-01-17 13:43:33,783 WARN received SIGTERM indicating exit request
+2018-01-17 13:43:33,812 WARN received SIGTERM indicating exit request
+2018-01-17 15:00:47,122 CRIT Supervisor running as root (no user in config file)
+2018-01-17 15:00:47,123 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-17 15:00:47,152 INFO RPC interface 'supervisor' initialized
+2018-01-17 15:00:47,152 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-17 15:00:47,153 INFO supervisord started with pid 1
+2018-01-17 15:00:48,837 CRIT Supervisor running as root (no user in config file)
+2018-01-17 15:00:48,837 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-17 15:00:48,854 INFO RPC interface 'supervisor' initialized
+2018-01-17 15:00:48,854 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-17 15:00:48,854 INFO supervisord started with pid 1
+2018-01-17 15:00:50,178 CRIT Supervisor running as root (no user in config file)
+2018-01-17 15:00:50,179 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-17 15:00:50,193 INFO RPC interface 'supervisor' initialized
+2018-01-17 15:00:50,195 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-17 15:00:50,196 INFO supervisord started with pid 1
+2018-01-18 16:10:08,555 CRIT Supervisor running as root (no user in config file)
+2018-01-18 16:10:08,621 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-18 16:10:08,562 CRIT Supervisor running as root (no user in config file)
+2018-01-18 16:10:08,622 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-18 16:10:08,563 CRIT Supervisor running as root (no user in config file)
+2018-01-18 16:10:08,622 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-18 16:10:08,633 WARN Failed to clean up '/var/log/php/supervisor/order_00-stdout---supervisor-dwdyVS.log'
+2018-01-18 16:10:08,633 WARN Failed to clean up '/var/log/php/supervisor/order_00-stdout---supervisor-dwdyVS.log'
+2018-01-18 16:10:08,633 WARN Failed to clean up '/var/log/php/supervisor/order_00-stderr---supervisor-KhuJMl.log'
+2018-01-18 16:10:08,706 WARN Failed to clean up '/var/log/php/supervisor/order_00-stderr---supervisor-KhuJMl.log'
+2018-01-18 16:10:10,193 INFO RPC interface 'supervisor' initialized
+2018-01-18 16:10:10,199 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-18 16:10:10,200 INFO supervisord started with pid 1
+2018-01-18 16:10:10,201 INFO RPC interface 'supervisor' initialized
+2018-01-18 16:10:10,201 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-18 16:10:10,206 INFO RPC interface 'supervisor' initialized
+2018-01-18 16:10:10,206 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-18 16:10:10,206 INFO supervisord started with pid 1
+2018-01-18 16:10:10,207 INFO supervisord started with pid 1
+2018-01-18 21:06:29,746 CRIT reaped unknown pid 16)
+2018-01-18 21:06:31,170 CRIT reaped unknown pid 17)
+2018-01-18 21:06:31,170 CRIT reaped unknown pid 18)
+2018-01-18 21:06:31,170 CRIT reaped unknown pid 19)
+2018-01-18 21:06:31,170 CRIT reaped unknown pid 20)
+2018-01-18 21:06:31,195 CRIT reaped unknown pid 21)
+2018-01-18 21:06:31,195 CRIT reaped unknown pid 22)
+2018-01-18 21:06:31,195 CRIT reaped unknown pid 23)
+2018-01-18 21:06:31,196 CRIT reaped unknown pid 24)
+2018-01-18 21:06:31,196 CRIT reaped unknown pid 25)
+2018-01-18 21:06:31,196 CRIT reaped unknown pid 14)
+2018-01-18 21:06:48,718 WARN received SIGTERM indicating exit request
+2018-01-18 21:06:54,210 WARN received SIGTERM indicating exit request
+2018-01-18 21:06:57,516 WARN received SIGTERM indicating exit request
+2018-01-23 14:19:50,229 CRIT Supervisor running as root (no user in config file)
+2018-01-23 14:19:50,227 CRIT Supervisor running as root (no user in config file)
+2018-01-23 14:19:50,270 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-23 14:19:50,233 CRIT Supervisor running as root (no user in config file)
+2018-01-23 14:19:50,269 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-23 14:19:50,271 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-23 14:19:50,303 WARN Failed to clean up '/var/log/php/supervisor/order_00-stderr---supervisor-kKrvE_.log'
+2018-01-23 14:19:50,305 WARN Failed to clean up '/var/log/php/supervisor/order_00-stdout---supervisor-JG9jEO.log'
+2018-01-23 14:19:50,305 WARN Failed to clean up '/var/log/php/supervisor/order_00-stderr---supervisor-HH8Qkr.log'
+2018-01-23 14:19:50,305 WARN Failed to clean up '/var/log/php/supervisor/order_00-stdout---supervisor-uv3Bd4.log'
+2018-01-23 14:19:50,305 WARN Failed to clean up '/var/log/php/supervisor/order_00-stderr---supervisor-y6cZni.log'
+2018-01-23 14:19:50,305 WARN Failed to clean up '/var/log/php/supervisor/order_00-stdout---supervisor-zvuF2l.log'
+2018-01-23 14:19:50,306 WARN Failed to clean up '/var/log/php/supervisor/order_00-stderr---supervisor-kKrvE_.log'
+2018-01-23 14:19:50,306 WARN Failed to clean up '/var/log/php/supervisor/order_00-stdout---supervisor-JG9jEO.log'
+2018-01-23 14:19:50,306 WARN Failed to clean up '/var/log/php/supervisor/order_00-stderr---supervisor-HH8Qkr.log'
+2018-01-23 14:19:50,307 WARN Failed to clean up '/var/log/php/supervisor/order_00-stdout---supervisor-uv3Bd4.log'
+2018-01-23 14:19:50,307 WARN Failed to clean up '/var/log/php/supervisor/order_00-stderr---supervisor-y6cZni.log'
+2018-01-23 14:19:50,307 WARN Failed to clean up '/var/log/php/supervisor/order_00-stdout---supervisor-zvuF2l.log'
+2018-01-23 14:19:51,394 INFO RPC interface 'supervisor' initialized
+2018-01-23 14:19:51,397 INFO RPC interface 'supervisor' initialized
+2018-01-23 14:19:51,399 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-23 14:19:51,399 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-23 14:19:51,398 INFO RPC interface 'supervisor' initialized
+2018-01-23 14:19:51,400 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-23 14:19:51,415 INFO supervisord started with pid 1
+2018-01-23 14:19:51,416 INFO supervisord started with pid 1
+2018-01-23 14:19:51,416 INFO supervisord started with pid 1
+2018-01-29 10:22:46,653 WARN received SIGTERM indicating exit request
+2018-01-29 10:22:52,400 WARN received SIGTERM indicating exit request
+2018-01-29 10:22:56,294 WARN received SIGTERM indicating exit request
+2018-01-29 10:24:37,787 CRIT Supervisor running as root (no user in config file)
+2018-01-29 10:24:37,787 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-29 10:24:37,791 CRIT Supervisor running as root (no user in config file)
+2018-01-29 10:24:37,794 CRIT Supervisor running as root (no user in config file)
+2018-01-29 10:24:37,794 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-29 10:24:37,796 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-29 10:24:37,876 WARN Failed to clean up '/var/log/php/supervisor/order_00-stderr---supervisor-A8_WB_.log'
+2018-01-29 10:24:37,877 WARN Failed to clean up '/var/log/php/supervisor/order_00-stderr---supervisor-A8_WB_.log'
+2018-01-29 10:24:37,878 WARN Failed to clean up '/var/log/php/supervisor/order_00-stderr---supervisor-jCGvyd.log'
+2018-01-29 10:24:37,879 WARN Failed to clean up '/var/log/php/supervisor/order_00-stderr---supervisor-jCGvyd.log'
+2018-01-29 10:24:37,880 WARN Failed to clean up '/var/log/php/supervisor/order_00-stderr---supervisor-LyZS9n.log'
+2018-01-29 10:24:37,884 WARN Failed to clean up '/var/log/php/supervisor/order_00-stdout---supervisor-3ZGkq6.log'
+2018-01-29 10:24:37,884 WARN Failed to clean up '/var/log/php/supervisor/order_00-stdout---supervisor-yp8SN7.log'
+2018-01-29 10:24:37,884 WARN Failed to clean up '/var/log/php/supervisor/order_00-stdout---supervisor-3DDo3Q.log'
+2018-01-29 10:24:37,892 WARN Failed to clean up '/var/log/php/supervisor/order_00-stderr---supervisor-LyZS9n.log'
+2018-01-29 10:24:37,897 WARN Failed to clean up '/var/log/php/supervisor/order_00-stdout---supervisor-3ZGkq6.log'
+2018-01-29 10:24:37,897 WARN Failed to clean up '/var/log/php/supervisor/order_00-stdout---supervisor-yp8SN7.log'
+2018-01-29 10:24:37,900 WARN Failed to clean up '/var/log/php/supervisor/order_00-stdout---supervisor-3DDo3Q.log'
+2018-01-29 10:24:38,222 INFO RPC interface 'supervisor' initialized
+2018-01-29 10:24:38,228 INFO RPC interface 'supervisor' initialized
+2018-01-29 10:24:38,230 INFO RPC interface 'supervisor' initialized
+2018-01-29 10:24:38,230 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-29 10:24:38,231 INFO supervisord started with pid 1
+2018-01-29 10:24:38,231 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-29 10:24:38,232 INFO supervisord started with pid 1
+2018-01-29 10:24:38,231 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-29 10:24:38,232 INFO supervisord started with pid 1
+2018-01-29 11:02:27,337 WARN received SIGTERM indicating exit request
+2018-01-29 11:02:28,655 CRIT Supervisor running as root (no user in config file)
+2018-01-29 11:02:28,656 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-29 11:02:28,739 INFO RPC interface 'supervisor' initialized
+2018-01-29 11:02:28,744 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-29 11:02:28,745 INFO supervisord started with pid 1
+2018-01-29 11:04:27,086 WARN received SIGTERM indicating exit request
+2018-01-29 11:04:57,067 WARN received SIGTERM indicating exit request
+2018-01-29 11:04:57,356 WARN received SIGTERM indicating exit request
+2018-01-29 11:05:09,153 CRIT Supervisor running as root (no user in config file)
+2018-01-29 11:05:09,154 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-29 11:05:09,175 INFO RPC interface 'supervisor' initialized
+2018-01-29 11:05:09,198 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-29 11:05:09,198 INFO supervisord started with pid 1
+2018-01-29 11:05:09,785 CRIT Supervisor running as root (no user in config file)
+2018-01-29 11:05:09,785 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-29 11:05:09,796 INFO RPC interface 'supervisor' initialized
+2018-01-29 11:05:09,796 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-29 11:05:09,800 INFO supervisord started with pid 1
+2018-01-29 11:05:10,636 CRIT Supervisor running as root (no user in config file)
+2018-01-29 11:05:10,637 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-29 11:05:10,655 INFO RPC interface 'supervisor' initialized
+2018-01-29 11:05:10,668 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-29 11:05:10,669 INFO supervisord started with pid 1
+2018-01-29 11:15:26,043 WARN received SIGTERM indicating exit request
+2018-01-29 11:15:26,323 WARN received SIGTERM indicating exit request
+2018-01-29 11:15:26,557 WARN received SIGTERM indicating exit request
+2018-01-29 11:18:46,995 CRIT Supervisor running as root (no user in config file)
+2018-01-29 11:18:47,000 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-29 11:18:47,043 INFO RPC interface 'supervisor' initialized
+2018-01-29 11:18:47,043 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-29 11:18:47,043 INFO supervisord started with pid 1
+2018-01-29 11:18:47,701 CRIT Supervisor running as root (no user in config file)
+2018-01-29 11:18:47,702 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-29 11:18:47,716 INFO RPC interface 'supervisor' initialized
+2018-01-29 11:18:47,724 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-29 11:18:47,725 INFO supervisord started with pid 1
+2018-01-29 11:18:48,302 CRIT Supervisor running as root (no user in config file)
+2018-01-29 11:18:48,302 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-29 11:18:48,311 INFO RPC interface 'supervisor' initialized
+2018-01-29 11:18:48,311 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-29 11:18:48,316 INFO supervisord started with pid 1
+2018-01-29 12:11:37,199 WARN received SIGTERM indicating exit request
+2018-01-29 12:11:37,884 CRIT Supervisor running as root (no user in config file)
+2018-01-29 12:11:37,884 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-29 12:11:37,899 INFO RPC interface 'supervisor' initialized
+2018-01-29 12:11:37,902 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-29 12:11:37,902 INFO supervisord started with pid 1
+2018-01-29 12:12:33,971 WARN received SIGTERM indicating exit request
+2018-01-29 12:12:34,595 CRIT Supervisor running as root (no user in config file)
+2018-01-29 12:12:34,595 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-29 12:12:34,609 INFO RPC interface 'supervisor' initialized
+2018-01-29 12:12:34,612 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-29 12:12:34,613 INFO supervisord started with pid 1
+2018-01-30 13:11:48,418 CRIT reaped unknown pid 46)
+2018-01-30 13:11:48,889 CRIT reaped unknown pid 47)
+2018-01-30 13:11:48,889 CRIT reaped unknown pid 48)
+2018-01-30 13:11:48,889 CRIT reaped unknown pid 49)
+2018-01-30 13:11:48,889 CRIT reaped unknown pid 50)
+2018-01-30 13:11:48,889 CRIT reaped unknown pid 44)
+2018-01-30 14:01:26,201 CRIT reaped unknown pid 124)
+2018-01-30 14:01:26,206 CRIT reaped unknown pid 125)
+2018-01-30 14:01:26,206 CRIT reaped unknown pid 126)
+2018-01-30 14:01:26,206 CRIT reaped unknown pid 127)
+2018-01-30 14:01:26,276 CRIT reaped unknown pid 121)
+2018-01-30 14:06:00,847 WARN received SIGTERM indicating exit request
+2018-01-30 14:06:08,464 WARN received SIGTERM indicating exit request
+2018-01-30 14:06:10,415 WARN received SIGTERM indicating exit request
+2018-01-30 14:08:17,907 CRIT Supervisor running as root (no user in config file)
+2018-01-30 14:08:17,907 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-30 14:08:17,960 CRIT Supervisor running as root (no user in config file)
+2018-01-30 14:08:17,961 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-30 14:08:18,749 INFO RPC interface 'supervisor' initialized
+2018-01-30 14:08:18,749 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-30 14:08:18,802 INFO supervisord started with pid 1
+2018-01-30 14:08:18,897 INFO RPC interface 'supervisor' initialized
+2018-01-30 14:08:18,897 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-30 14:08:18,898 INFO supervisord started with pid 1
+2018-01-30 14:08:25,637 CRIT Supervisor running as root (no user in config file)
+2018-01-30 14:08:25,637 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-30 14:08:26,202 INFO RPC interface 'supervisor' initialized
+2018-01-30 14:08:26,202 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-30 14:08:26,203 INFO supervisord started with pid 1
+2018-01-30 15:07:52,888 WARN received SIGTERM indicating exit request
+2018-01-30 15:07:52,925 WARN received SIGTERM indicating exit request
+2018-01-30 15:07:52,930 WARN received SIGTERM indicating exit request
+2018-01-30 15:08:15,176 CRIT Supervisor running as root (no user in config file)
+2018-01-30 15:08:15,177 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-30 15:08:15,375 INFO RPC interface 'supervisor' initialized
+2018-01-30 15:08:15,376 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-30 15:08:15,376 INFO supervisord started with pid 1
+2018-01-30 15:08:24,692 CRIT Supervisor running as root (no user in config file)
+2018-01-30 15:08:24,783 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-30 15:08:25,909 INFO RPC interface 'supervisor' initialized
+2018-01-30 15:08:25,910 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-30 15:08:25,945 INFO supervisord started with pid 1
+2018-01-30 15:08:35,166 CRIT Supervisor running as root (no user in config file)
+2018-01-30 15:08:35,166 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-01-30 15:08:35,222 INFO RPC interface 'supervisor' initialized
+2018-01-30 15:08:35,223 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-01-30 15:08:35,223 INFO supervisord started with pid 1
+2018-01-30 16:39:43,965 CRIT reaped unknown pid 17)
+2018-01-30 16:39:43,968 CRIT reaped unknown pid 19)
+2018-01-30 16:39:43,969 CRIT reaped unknown pid 20)
+2018-01-30 16:39:43,970 CRIT reaped unknown pid 21)
+2018-01-30 16:39:44,006 CRIT reaped unknown pid 15)
+2018-02-01 15:49:17,883 WARN received SIGTERM indicating exit request
+2018-02-01 15:50:22,174 CRIT Supervisor running as root (no user in config file)
+2018-02-01 15:50:22,188 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-02-01 15:50:22,508 INFO RPC interface 'supervisor' initialized
+2018-02-01 15:50:22,509 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-02-01 15:50:22,509 INFO supervisord started with pid 1
+2018-02-01 16:08:04,605 CRIT reaped unknown pid 18)
+2018-02-01 16:08:04,615 CRIT reaped unknown pid 20)
+2018-02-01 16:08:04,615 CRIT reaped unknown pid 21)
+2018-02-01 16:08:04,615 CRIT reaped unknown pid 22)
+2018-02-01 16:08:04,668 CRIT reaped unknown pid 16)
+2018-02-01 16:08:42,828 CRIT reaped unknown pid 29)
+2018-02-01 16:08:42,843 CRIT reaped unknown pid 30)
+2018-02-01 16:08:42,844 CRIT reaped unknown pid 31)
+2018-02-01 16:08:42,844 CRIT reaped unknown pid 32)
+2018-02-01 16:08:42,908 CRIT reaped unknown pid 27)
+2018-02-01 16:11:46,151 CRIT reaped unknown pid 40)
+2018-02-01 16:11:46,156 CRIT reaped unknown pid 41)
+2018-02-01 16:11:46,157 CRIT reaped unknown pid 42)
+2018-02-01 16:11:46,157 CRIT reaped unknown pid 44)
+2018-02-01 16:11:46,213 CRIT reaped unknown pid 38)
+2018-02-01 16:12:35,301 CRIT reaped unknown pid 52)
+2018-02-01 16:12:35,306 CRIT reaped unknown pid 53)
+2018-02-01 16:12:35,307 CRIT reaped unknown pid 54)
+2018-02-01 16:12:35,307 CRIT reaped unknown pid 55)
+2018-02-01 16:12:35,359 CRIT reaped unknown pid 49)
+2018-02-01 16:12:47,287 CRIT reaped unknown pid 62)
+2018-02-01 16:12:47,292 CRIT reaped unknown pid 63)
+2018-02-01 16:12:47,292 CRIT reaped unknown pid 65)
+2018-02-01 16:12:47,292 CRIT reaped unknown pid 66)
+2018-02-01 16:12:47,293 CRIT reaped unknown pid 64)
+2018-02-01 16:12:47,348 CRIT reaped unknown pid 60)
+2018-02-01 16:42:40,389 WARN received SIGTERM indicating exit request
+2018-02-01 16:42:48,383 WARN received SIGTERM indicating exit request
+2018-02-01 16:42:55,751 WARN received SIGTERM indicating exit request
+2018-02-01 16:46:34,061 CRIT Supervisor running as root (no user in config file)
+2018-02-01 16:46:34,061 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-02-01 16:46:34,252 INFO RPC interface 'supervisor' initialized
+2018-02-01 16:46:34,256 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-02-01 16:46:34,258 INFO supervisord started with pid 1
+2018-02-01 16:47:08,456 CRIT Supervisor running as root (no user in config file)
+2018-02-01 16:47:08,458 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-02-01 16:47:10,575 INFO RPC interface 'supervisor' initialized
+2018-02-01 16:47:10,575 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-02-01 16:47:10,576 INFO supervisord started with pid 1
+2018-02-01 16:47:16,955 CRIT Supervisor running as root (no user in config file)
+2018-02-01 16:47:16,956 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-02-01 16:47:17,946 INFO RPC interface 'supervisor' initialized
+2018-02-01 16:47:17,960 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-02-01 16:47:17,966 INFO supervisord started with pid 1
+2018-02-01 18:23:22,215 CRIT reaped unknown pid 22)
+2018-02-01 18:23:22,228 CRIT reaped unknown pid 23)
+2018-02-01 18:23:22,228 CRIT reaped unknown pid 24)
+2018-02-01 18:23:22,229 CRIT reaped unknown pid 25)
+2018-02-01 18:23:22,234 CRIT reaped unknown pid 26)
+2018-02-01 18:23:22,277 CRIT reaped unknown pid 20)
+2018-02-01 18:34:15,130 CRIT reaped unknown pid 33)
+2018-02-01 18:34:15,131 CRIT reaped unknown pid 34)
+2018-02-01 18:34:15,132 CRIT reaped unknown pid 35)
+2018-02-01 18:34:15,132 CRIT reaped unknown pid 36)
+2018-02-01 18:34:15,207 CRIT reaped unknown pid 31)
+2018-02-01 19:17:23,082 CRIT reaped unknown pid 44)
+2018-02-01 19:17:23,089 CRIT reaped unknown pid 45)
+2018-02-01 19:17:23,093 CRIT reaped unknown pid 47)
+2018-02-01 19:17:23,094 CRIT reaped unknown pid 48)
+2018-02-01 19:17:23,136 CRIT reaped unknown pid 42)
+2018-02-01 19:18:34,839 CRIT reaped unknown pid 55)
+2018-02-01 19:18:34,840 CRIT reaped unknown pid 56)
+2018-02-01 19:18:34,842 CRIT reaped unknown pid 57)
+2018-02-01 19:18:34,844 CRIT reaped unknown pid 59)
+2018-02-01 19:18:34,881 CRIT reaped unknown pid 53)
+2018-02-01 19:23:27,364 CRIT Supervisor running as root (no user in config file)
+2018-02-01 19:23:27,380 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-02-01 19:23:27,885 INFO RPC interface 'supervisor' initialized
+2018-02-01 19:23:27,886 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-02-01 19:23:27,886 INFO supervisord started with pid 1
+2018-02-01 19:23:31,893 CRIT Supervisor running as root (no user in config file)
+2018-02-01 19:23:31,893 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-02-01 19:23:32,693 INFO RPC interface 'supervisor' initialized
+2018-02-01 19:23:32,694 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-02-01 19:23:32,695 INFO supervisord started with pid 1
+2018-02-01 19:23:35,074 CRIT Supervisor running as root (no user in config file)
+2018-02-01 19:23:35,077 WARN Included extra file "/etc/supervisor/conf.d/order.conf" during parsing
+2018-02-01 19:23:35,659 INFO RPC interface 'supervisor' initialized
+2018-02-01 19:23:35,660 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-02-01 19:23:35,662 INFO supervisord started with pid 1
+2018-02-01 21:07:03,991 CRIT reaped unknown pid 22)
+2018-02-01 21:07:04,020 CRIT reaped unknown pid 19)
+2018-02-01 21:07:04,021 CRIT reaped unknown pid 20)
+2018-02-01 21:07:04,021 CRIT reaped unknown pid 21)
+2018-02-01 21:07:04,131 CRIT reaped unknown pid 16)
+2018-02-01 21:07:38,377 CRIT reaped unknown pid 30)
+2018-02-01 21:07:38,379 CRIT reaped unknown pid 31)
+2018-02-01 21:07:38,394 CRIT reaped unknown pid 32)
+2018-02-01 21:07:38,418 CRIT reaped unknown pid 27)
+2018-02-01 21:07:38,519 CRIT reaped unknown pid 33)
+2018-02-01 21:09:46,041 CRIT reaped unknown pid 41)
+2018-02-01 21:09:46,042 CRIT reaped unknown pid 42)
+2018-02-01 21:09:46,042 CRIT reaped unknown pid 43)
+2018-02-01 21:09:46,043 CRIT reaped unknown pid 44)
+2018-02-01 21:09:46,063 CRIT reaped unknown pid 38)
+2018-02-01 21:10:36,119 CRIT reaped unknown pid 51)
+2018-02-01 21:10:36,121 CRIT reaped unknown pid 52)
+2018-02-01 21:10:36,121 CRIT reaped unknown pid 53)
+2018-02-01 21:10:36,126 CRIT reaped unknown pid 54)
+2018-02-01 21:10:36,126 CRIT reaped unknown pid 55)
+2018-02-01 21:10:36,161 CRIT reaped unknown pid 49)
+2018-02-01 21:11:05,654 CRIT reaped unknown pid 63)
+2018-02-01 21:11:05,655 CRIT reaped unknown pid 64)
+2018-02-01 21:11:05,657 CRIT reaped unknown pid 65)
+2018-02-01 21:11:05,657 CRIT reaped unknown pid 66)
+2018-02-01 21:11:05,686 CRIT reaped unknown pid 60)
+2018-02-01 21:12:20,171 CRIT reaped unknown pid 74)
+2018-02-01 21:12:20,172 CRIT reaped unknown pid 75)
+2018-02-01 21:12:20,175 CRIT reaped unknown pid 76)
+2018-02-01 21:12:20,176 CRIT reaped unknown pid 77)
+2018-02-01 21:12:20,212 CRIT reaped unknown pid 71)
+2018-02-01 21:18:40,492 CRIT reaped unknown pid 84)
+2018-02-01 21:18:40,496 CRIT reaped unknown pid 85)
+2018-02-01 21:18:40,497 CRIT reaped unknown pid 86)
+2018-02-01 21:18:40,497 CRIT reaped unknown pid 88)
+2018-02-01 21:18:40,534 CRIT reaped unknown pid 82)
+2018-02-01 21:27:06,372 CRIT reaped unknown pid 96)
+2018-02-01 21:27:06,373 CRIT reaped unknown pid 97)
+2018-02-01 21:27:06,373 CRIT reaped unknown pid 98)
+2018-02-01 21:27:06,374 CRIT reaped unknown pid 99)
+2018-02-01 21:27:06,405 CRIT reaped unknown pid 93)
+2018-02-01 21:27:34,377 CRIT reaped unknown pid 107)
+2018-02-01 21:27:34,378 CRIT reaped unknown pid 108)
+2018-02-01 21:27:34,379 CRIT reaped unknown pid 109)
+2018-02-01 21:27:34,380 CRIT reaped unknown pid 111)
+2018-02-01 21:27:34,418 CRIT reaped unknown pid 104)
+2018-02-01 21:32:58,306 CRIT reaped unknown pid 119)
+2018-02-01 21:32:58,309 CRIT reaped unknown pid 120)
+2018-02-01 21:32:58,310 CRIT reaped unknown pid 121)
+2018-02-01 21:32:58,314 CRIT reaped unknown pid 122)
+2018-02-01 21:32:58,340 CRIT reaped unknown pid 116)
+2018-02-02 11:39:27,000 WARN received SIGTERM indicating exit request
+2018-02-02 11:39:28,019 WARN received SIGTERM indicating exit request
+2018-02-02 11:39:28,954 WARN received SIGTERM indicating exit request
